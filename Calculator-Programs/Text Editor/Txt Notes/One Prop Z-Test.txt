@@ -1,0 +1,17 @@
+Hypothesis:
+HO: p = value
+HA: p >,<,!= value
+
+Conditions:
+1) Random sample
+2) Sample < 10% of population | independence
+3) np,nq >= 10
+
+Mechanics:
+SE=sqrt(p*q/n)
+n=
+x=
+z=x/n=p-hat
+p-val=
+alpha=
+**draw normal curve and shade in area

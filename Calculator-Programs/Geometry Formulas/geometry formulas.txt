@@ -1,0 +1,17 @@
+Name:       Geometry Formulas
+Author:     Osias Hernandez
+Version:    1.0
+Calculator: TI-84+CSE
+Language:   BASIC
+
+Description: Includes 17 different area, volume, and surface area solvers.
+
+If you have questions contact me at:
+osias_hernandez@yahoo.com
+
+
+History
+
+1.0   - initial release
+
+1.0.1 - fixed the polygon area formula.

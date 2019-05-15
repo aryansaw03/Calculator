@@ -1,0 +1,27 @@
+**Different Subjects
+Hypothesis:
+HO: mu1 = mu2 or mu2-mu1 = 0
+HA: mu1 >,<,!= mu2 or mu2-mu1 >,<,!= 0
+**define mu1 and mu2
+
+Conditions:
+1) Random sample
+2) Both sample < 10% of population | independence
+3) Nearly normal for both | n >= 30 for both (Central Limit Theorem) | Check Boxplot or Histogram for Normal for both
+**Remember to draw it^
+
+Mechanics:
+df=n-1
+invT() for t-crit or use table
+SE=sqrt{[(S1^2)/sqrt(n1)]+[(S2^2)/sqrt(n2)]}
+S1(standard deviation)=
+S2(standard deviation)=
+n1=
+n2=
+x1-bar=
+x2-bar=
+t=
+df=
+p-val=
+alpha=
+**draw normal curve and shade in area

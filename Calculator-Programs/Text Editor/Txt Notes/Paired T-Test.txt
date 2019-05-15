@@ -1,0 +1,22 @@
+**Same Subjects
+Hypothesis:
+HO: mu1 = mu2 or mu2-mu1 = 0
+HA: mu1 >,<,!= mu2 or mu2-mu1 >,<,!= 0
+**define mu1 and mu2
+
+Conditions:
+1) Random sample
+2) Sample < 10% of population | differences are independent
+3) Check Boxplot or Histogram for Normal for differences (L2-L1)
+**Remember to draw it^
+
+Mechanics:
+invT() for t-crit or use table
+SE of differences=S/sqrt(n)
+S(standard deviation of differences)=
+n=
+x-bar of differences=
+t=
+p-val=
+alpha=
+**draw normal curve and shade in area

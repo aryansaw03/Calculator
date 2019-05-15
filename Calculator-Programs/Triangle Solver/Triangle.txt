@@ -1,0 +1,55 @@
+From:"Anders Tiberg"<anders.tiberg@telia.com>
+To:<filearchive@ticalc.org>
+Subject:Triangle
+Date:sep.14,2015
+
+ 
+ Triangle is a simple to use program that divides the problem of calculating the different
+values of a triangle into five cases: SAS,SSA,ASA,SAA and SSS, depending on what information you have. Handles the ambiguous case.
+
+ 1:SAS
+Two sides and the angle between.
+
+ 2:SSA
+Two sides and the angle opposite to the first side. In this case there can be either 0,1 or 2 solutions.If there is no solution the calc. will show ERR:DOMAIN, if there are two solutions the program will show 1 OF 2 and 2 OF 2 for the respective solutions(the ambiguous case)
+
+ 3:ASA
+One side and its adjacent angles.
+
+ 4:SAA
+One side, the opposite angle and one adjacent angle.
+
+ 5:SSS
+When you have the length of the three sides
+
+
+ The program will ask for the specific information in each case. For example in case two:
+2:SSA
+
+GIVE TWO SIDES
+AND THE ANGLE
+OPP. TO SIDE1
+SIDE1=
+
+
+ The answer is showed with the Text( command. All three sides and angles plus the area are
+shown on one screen:
+
+SIDE1:A=5
+SIDE2:B=10
+SIDE3:C=8.660254
+
+ANGLE1:D=30
+ANGLE2:E=90
+ANGLE3:F=60
+
+AREA:G=21.650635
+
+ 
+
+
+                    Questions and/or input, write to: anders.tiberg@telia.com
+
+
+
+ 

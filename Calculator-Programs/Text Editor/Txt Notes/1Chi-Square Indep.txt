@@ -1,0 +1,17 @@
+Hypothesis:
+HO: no association
+HA: association
+
+Conditions:
+1) Random sample
+2) Data given in counts (is the data countable?)
+3) Sample < 10% of population | independence
+4) Expected Values >= 5
+
+Mechanics:
+Expected Values = (row total)*(col total)/(overall total)
+df=(row-1)(col-1)
+X^2 (Chi-square)=
+p-val=
+alpha=
+**draw normal curve and shade in area

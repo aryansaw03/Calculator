@@ -1,0 +1,21 @@
+Hypothesis:
+HO: mu = value
+HA: mu >,<,!= value
+
+Conditions:
+1) Random sample
+2) Sample < 10% of population | independence
+3) Nearly normal | n >= 30 (Central Limit Theorem) | Check Boxplot or Histogram for Normal
+**Remember to draw it^
+
+Mechanics:
+df=n-1
+invT() for t-crit or use table
+SE=S/sqrt(n)
+S(standard deviation)=
+n=
+x-bar=
+t=
+p-val=
+alpha=
+**draw normal curve and shade in area

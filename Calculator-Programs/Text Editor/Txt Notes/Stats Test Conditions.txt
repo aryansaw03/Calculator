@@ -1,0 +1,40 @@
+1 Prop Z-Test:
+1) Random sample
+2) Sample < 10% of population | independence
+3) np,nq >= 10
+
+2 Prop Z-Test:
+1) Random sample
+2) Both sample < 10% of population | independence
+3) np1,nq1,np2,nq2 >= 10
+
+1 Sample T-Test:
+1) Random sample
+2) Sample < 10% of population | independence
+3) Nearly normal | n >= 30 (Central Limit Theorem) | Check Boxplot or Histogram for Normal
+**Remember to draw it^
+
+2 Sample T-Test (Different Subjects):
+1) Random sample
+2) Both sample < 10% of population | independence
+3) Nearly normal for both | n >= 30 for both (Central Limit Theorem) | Check Boxplot or Histogram for Normal for both
+**Remember to draw it^
+
+Paired T-Test (Same Subjects):
+1) Random sample
+2) Sample < 10% of population | differences are independent
+3) Check Boxplot or Histogram for Normal for differences (L2-L1)
+**Remember to draw it^
+
+Chi-Square Test (All):
+1) Random sample
+2) Data given in counts (is the data countable?)
+3) Sample < 10% of population | independence
+4) Expected Values >= 5
+
+Linear Regression T-Test:
+1) Sample < 10% of population | independence
+2) Scatterplot is rougly linear
+3) Residual plot is random
+4) Histogram of residuals is unimodal and mostly symetric
+**Remember to draw it^

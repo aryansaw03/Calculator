@@ -1,0 +1,18 @@
+Hypothesis:
+HO: p1 = p2 or p2-p1 = 0
+HA: p1 >,<,!= p2 or p2-p1 >,<,!= 0
+**define p1 and p2
+
+Conditions:
+1) Random sample
+2) Both sample < 10% of population | independence
+3) np1,nq1,np2,nq2 >= 10
+
+Mechanics:
+SE=sqrt[(p1*q1/n1)+(p2*q2/n2)]
+n=
+x=
+z=x/n=p-hat
+p-val=
+alpha=
+**draw normal curve and shade in area

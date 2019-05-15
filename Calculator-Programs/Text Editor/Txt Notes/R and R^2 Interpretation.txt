@@ -1,0 +1,3 @@
+R: There is a (strength),(direction),(degree) assosication between ________ and ________
+
+R^2: (R^2 value) % of the variability in (Y variable) is explained by the differences in (X variable)

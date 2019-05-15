@@ -1,0 +1,5 @@
+Type I Error:
+Incorrect rejection of a true null hypothesis
+
+Type II Error:
+Failure to reject a false null hypothesis
