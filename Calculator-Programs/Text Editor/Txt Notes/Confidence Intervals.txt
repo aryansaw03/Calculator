@@ -1,9 +1,22 @@
+**MAKE SURE TO CHECK CONDITIONS
 Confidence Level Interpretation:
 If we take many random samples of (n),
 (confidence level)% of them would capture
-the true (mean/proportion/difference) of ...
+the true (mean/proportion/difference) of (sample)
 
 1 Prop Z-Test/1 Sample T-Test:
-We are (confidence level) confident that 
-the true (proportion/mean + context) of ...
-is within (confidence interval)
+We are (confidence level)% confident that 
+the true (proportion/mean) of (sample)
+is within (confidence interval).
+
+2 Prop Z-Test/2 Sample T-Test/Paired T-Test:
+We are (confidence level)% confident that 
+the (proportion/mean) of (group 1) is 
+(1st number CI) (more (+)/less (-)) and 
+(2nd number CI) (more (+)/less (-)) than
+the (proportion/mean) of (group 2).
+
+Linear Regression T-Test:
+We are (confidence level)% confident that
+(Y-Variable) changes on average between
+(confidence interval) per (X Variable).
