@@ -1,0 +1,19 @@
+Hypothesis:
+HO: No Association (B = 0)
+HA: Association (B != 0)
+
+Conditions:
+1) Random sample
+2) Sample < 10% of population
+3) Scatterplot is rougly linear
+4) Residual plot is random
+5) Histogram of residuals is unimodal and mostly symetric
+**Remember to draw it^
+
+Mechanics:
+df=n-2
+S(standard deviation)= SE Coefficient of X variable
+n=
+t=
+p-val=
+alpha=

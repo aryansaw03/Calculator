@@ -1,0 +1,9 @@
+Confidence Level Interpretation:
+If we take many random samples of (n),
+(confidence level)% of them would capture
+the true (mean/proportion/difference) of ...
+
+1 Prop Z-Test/1 Sample T-Test:
+We are (confidence level) confident that 
+the true (proportion/mean + context) of ...
+is within (confidence interval)
