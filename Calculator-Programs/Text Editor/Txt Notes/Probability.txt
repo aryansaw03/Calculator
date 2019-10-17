@@ -1,0 +1,18 @@
+Binomialcdf(N, P, X)
+Probability of getting at most X things out of N number of items
+1 - binomialcdf(N, P, X-1) for "at least"
+
+Binomialpdf(N, P, X)
+Probability of getting exactly X things out of N number of items
+
+Geometricdf(P, N)
+Probability of first success within/at most n number of trials
+1-geometricdf(P, N) for "more than"
+
+Geometricpdf (P, N)
+Probability of first success is exactly on Nth try
+
+Binomial- probability of getting this many things
+Geometric- probability of first success
+PDF- specific position
+CDF- Cumulative

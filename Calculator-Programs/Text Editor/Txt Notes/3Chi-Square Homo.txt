@@ -14,4 +14,4 @@ df=(row-1)(col-1)
 X^2 (Chi-square)=
 p-val=
 alpha=
-**draw normal curve and shade in area
+**draw chi-square curve and shade in area

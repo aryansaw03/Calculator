@@ -1,5 +1,7 @@
 Type I Error:
 Incorrect rejection of a true null hypothesis
+Probability = alpha
 
 Type II Error:
 Failure to reject a false null hypothesis
+Probability = beta
